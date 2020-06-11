@@ -6,4 +6,12 @@ _CompileInfo
 *.tpy
 *.bak
 *.~u
-*.swp
+*.csv
+*.dbg
+*.svd
+*.tmcRefac
+*.library
+*.sw[op]
+pytmc_build
+TrialLicense.tclrs
+UpgradeLog.htm
